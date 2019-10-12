@@ -1,5 +1,5 @@
 # AppendPath
-Append A Path to Path(EnvironmentVariable(Machine))
+Append a path to Path(EnvironmentVariable(Machine)) and refresh
 # CSharp
 ## NuGet
 WindowsAPICodePack-Shell
